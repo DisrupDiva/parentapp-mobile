@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "368043621724",
+    "project_id": "parentapp-kjs",
+    "storage_bucket": "parentapp-kjs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368043621724:android:a7d09c63c2c7aa6cee1599",
+        "android_client_info": {
+          "package_name": "br.com.kevennyjs.parentapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368043621724-cmav8l2lsk4o5g78af3noijkq2jbd92n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR_B_MW8CfBiiuQ4q0r1rIgP0s558-WhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368043621724-cmav8l2lsk4o5g78af3noijkq2jbd92n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
